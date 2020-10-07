@@ -10,5 +10,6 @@ namespace GitProject
         public static String Lol;
         public int i;
         public String line;
+        public Class1() { }
     }
 }
