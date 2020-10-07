@@ -11,5 +11,6 @@ namespace GitProject
         public int i;
         public String line;
         public Class1() { }
+        public void met() { }
     }
 }
